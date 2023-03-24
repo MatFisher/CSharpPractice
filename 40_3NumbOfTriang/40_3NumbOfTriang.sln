@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_3NumbOfTriang", "40_3NumbOfTriang.csproj", "{88CB8661-12CB-4073-AD4A-C7DC1DE80E11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CB8661-12CB-4073-AD4A-C7DC1DE80E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CB8661-12CB-4073-AD4A-C7DC1DE80E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CB8661-12CB-4073-AD4A-C7DC1DE80E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CB8661-12CB-4073-AD4A-C7DC1DE80E11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3A4EC34-5578-40F4-ABEE-4240F41AA017}
+	EndGlobalSection
+EndGlobal
