@@ -78,9 +78,9 @@ while (true)
             break;
     }
 
-    if (map[userY, userX] == 'X')
+    if (map[userX, userY] == 'X')
     {
-        map[userY, userX] = 'o';
+        map[userX, userY] = 'o';
 
         char[] tempBag = new char[bag.Length + 1];
         for(int i = 0; i < bag.Length; i++)
